@@ -8,11 +8,15 @@
 <p>
 
 - 👋 Olá , me chamo Henrique Coelho, sou de São Paulo.
+  
 - 👨‍💻 Pós-graduando em análise de dados e bacharel em Engenharia Mecânica.
+  
 - 🌱 Já aprendi em back-end SQL, R, Python, C#.
+  
 - 🌱 Já aprendi em front-end JavaScript
+  
 - 💼 Estou fazendo uma transição de carreira da área industrial para a área da T.I
-- 💞️ I’m looking to collaborate on ...
+  
 - 📫 Para me contactar envie um email para henriquecomoliveira@gmail.com 
 
 ![SQl](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL&logoColor=007396)
