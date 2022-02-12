@@ -52,7 +52,7 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HenriqueCMO&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <p align="center">
-  <i>Caso queira me cantatar! Me encontre em...</i> 
+  <i>Caso queira me contatar! Me encontre em...</i> 
  
 <p align="center">  
 <a href="https://www.linkedin.com/in/henrique-como/" alt="linkedin" target="_blank">
