@@ -38,20 +38,18 @@
 
 <br>
 
+## 📕 Certifications
+
+<img src="google-data-analytics-professional-certificate.1.png" width="15%"/> 
+
+<br>
+
 ## ⏰ Atividade em programação
 
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=HenriqueCMO&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HenriqueCMO&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<br>
-
-## 📕 Certifications
-
-<img src="google-data-analytics-professional-certificate.1.png" width="15%"/> 
-
-<br>
 
 <p align="center">
   <i>Caso queira me cantatar! Me encontre em...</i> 
