@@ -18,33 +18,36 @@
 
 <br>
 
-## 🛠️ Habilidades em tecnologia
+## 🛠️ Habilidades em tecnologia.
 
 <br>
 
-* 📝 Linguagens de programação
+* 📝 Linguagens de programação.
 
 ![SQl](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL&logoColor=007396)&nbsp;&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=#276DC3)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=#3776AB)&nbsp;&nbsp;
 ![C-Sharp](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=c-sharp)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-Java%20Script-05122A?style=flat&logo=JavaScript&logoColor=#F7DF1E)&nbsp;&nbsp;
-![Amazon AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon%20AWS&logoColor=#232F3E)&nbsp;&nbsp;
 
-* ☁️ Cloud
+* 🎥 Vizualização de Dados.
+
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau&logoColor=#232F3E)&nbsp;&nbsp;
+
+* ☁️ Cloud.
 
 <img src="https://www.loudounchamber.org/wp-content/uploads/2018/02/aws_logo_smile-NEW.png" alt="AWS"
     title="AWS" width="4.5%" />
 
 <br>
 
-## 📕 Certifications
+## 📕 Certificações.
 
 <img src="google-data-analytics-professional-certificate.1.png" width="15%"/> 
 
 <br>
 
-## ⏰ Atividade em programação
+## ⏰ Atividade em programação.
 
 <br>
 
