@@ -10,7 +10,7 @@
   
 * 👨‍🎓 Pós-graduando em análise de dados e bacharel em Engenharia Mecânica.
 
-* 👨‍🏫 Entusiasta por aprender e compartilhar conhecimento, sempre em busca de novos desafios.
+* 👨‍🏫 Entusiasta por adquirir e compartilhar conhecimento, sempre em busca de novos desafios.
   
 * 💼 Estou fazendo uma transição de carreira da área industrial para a área da T.I
   
@@ -43,7 +43,7 @@
 
 ## 📕 Certificações.
 
-<img src="google-data-analytics-professional-certificate.1.png" width="15%"/> 
+<img src="google-data-analytics-professional-certificate.1.png" width="15%"/> <img src="https://user-images.githubusercontent.com/89171693/156174926-4a9d3e18-b7bf-453d-a0ec-ff225c3ec069.png" width="15%"/> 
 
 <br>
 
