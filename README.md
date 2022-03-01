@@ -22,22 +22,27 @@
 
 <br>
 
-* 📝 Linguagens de programação.
+* 📝 Linguagens de programação e consulta.
 
 ![SQl](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL&logoColor=007396)&nbsp;&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=#276DC3)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=#3776AB)&nbsp;&nbsp;
 ![C-Sharp](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=c-sharp)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-Java%20Script-05122A?style=flat&logo=JavaScript&logoColor=#F7DF1E)&nbsp;&nbsp;
+---
 
 * 🎥 Vizualização de Dados.
 
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau&logoColor=#232F3E)&nbsp;&nbsp;
+---
 
 * ☁️ Cloud.
 
 <img src="https://www.loudounchamber.org/wp-content/uploads/2018/02/aws_logo_smile-NEW.png" alt="AWS"
-    title="AWS" width="4.5%" />
+    title="AWS" width="4.5%" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"
+    title="Oracle" width="4.5%" /> &nbsp;&nbsp;    
+---
 
 <br>
 
@@ -57,6 +62,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCMO&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+ ---
 <p align="center">
   <i>Caso queira me contatar! Me encontre em...</i> 
  
