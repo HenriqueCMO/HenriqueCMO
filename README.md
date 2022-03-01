@@ -48,7 +48,7 @@
 
 ## 📕 Certificações.
 
-<img src="google-data-analytics-professional-certificate.1.png" width="15%"/> <img src="https://user-images.githubusercontent.com/89171693/156174926-4a9d3e18-b7bf-453d-a0ec-ff225c3ec069.png" width="15%"/> 
+<img src="google-data-analytics-professional-certificate.1.png" width="10%"/> <img src="https://user-images.githubusercontent.com/89171693/156174926-4a9d3e18-b7bf-453d-a0ec-ff225c3ec069.png" width="10%"/> 
 
 <br>
 
