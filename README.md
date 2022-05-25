@@ -24,17 +24,19 @@
 
 * 📝 Linguagens de programação e consulta.
 
-![SQl](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL&logoColor=007396)&nbsp;&nbsp;
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=#276DC3)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=#3776AB)&nbsp;&nbsp;
-![C-Sharp](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=c-sharp)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-Java%20Script-05122A?style=flat&logo=JavaScript&logoColor=#F7DF1E)&nbsp;&nbsp;
+![SQL](https://user-images.githubusercontent.com/89171693/170262092-bd30dff3-29a3-4969-9c4a-984f816b033d.png)&nbsp;&nbsp;
+![R](https://user-images.githubusercontent.com/89171693/170262173-4fe3e1f1-42f2-4f43-8ff1-e04091f4eee5.png)&nbsp;&nbsp;
+![Python](https://user-images.githubusercontent.com/89171693/170262547-b703192c-a424-47b4-8539-6e1caaebcb68.png)&nbsp;&nbsp;
+![HTML](https://user-images.githubusercontent.com/89171693/170261615-f1decc2d-269a-42f0-922b-2755ccfe1c24.png)&nbsp;&nbsp;
+![CSS](https://user-images.githubusercontent.com/89171693/170261804-78131eba-6cbc-418a-8a17-2eec32e14725.png)&nbsp;&nbsp;
+![JavaScript](https://user-images.githubusercontent.com/89171693/170262351-7d09d21f-5912-477c-8c37-0a40afac7fae.png)&nbsp;&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="C#" title="C#" width="4.5%" />&nbsp;&nbsp;
+
 ---
 
 * 🎥 Vizualização de Dados.
 
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau&logoColor=#232F3E)&nbsp;&nbsp;
----
+ <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" alt="PowerBI" title="PowerBI" width="10%"/>&nbsp;&nbsp;
 
 * ☁️ Cloud.
 
@@ -68,9 +70,12 @@
  
 <p align="center">  
 <a href="https://www.linkedin.com/in/henrique-como/" alt="linkedin" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
+<img src="https://user-images.githubusercontent.com/89171693/170262980-900d0cb1-6e70-4059-b12d-93f26665c7db.png"/></a>
+
 <a href="mailto:<henriquecomoliveira@gmail.com>" alt="gmail" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" /></a>  
+<img src="https://user-images.githubusercontent.com/89171693/170263296-91b9e6ef-f529-45fd-9d3f-38143b9d982a.png"/></a>  
+
+
  
 ---  
  
