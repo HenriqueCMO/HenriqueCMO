@@ -10,6 +10,8 @@
   
 * 👨‍🎓 Pós-graduando em análise de dados e bacharel em Engenharia Mecânica.
 
+* 💻 Estudando Desenvolvimento Fullstack Python.
+
 * 👨‍🏫 Entusiasta por adquirir e compartilhar conhecimento, sempre em busca de novos desafios.
   
 * 💼 Estou fazendo uma transição de carreira da área industrial para a área da T.I
@@ -30,7 +32,9 @@
 ![HTML](https://user-images.githubusercontent.com/89171693/170261615-f1decc2d-269a-42f0-922b-2755ccfe1c24.png)&nbsp;&nbsp;
 ![CSS](https://user-images.githubusercontent.com/89171693/170261804-78131eba-6cbc-418a-8a17-2eec32e14725.png)&nbsp;&nbsp;
 ![JavaScript](https://user-images.githubusercontent.com/89171693/170262351-7d09d21f-5912-477c-8c37-0a40afac7fae.png)&nbsp;&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap" title="Bootstrap" width="4.5%" />&nbsp;&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="C#" title="C#" width="4.5%" />&nbsp;&nbsp;
+
 
 ---
 
